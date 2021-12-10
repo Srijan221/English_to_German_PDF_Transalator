@@ -1,0 +1,41 @@
+Statement Of Purpose
+
+T, Srijan, am currently pursuing my bachelors from Maharaja Agrasen Institute of Technology, Delhi
+in the field of Electronics and Communication Engineering and would like to apply for Summer
+Internship in your prestigious institute. I have a keen interest in Machine Learning, Deep Learning,
+Neural Networks, and Image Processing which got stimulated in me at a very nascent age in school,
+when I studied the design of Curiosity Rover and developed a dummy model for the school exhibition.
+Since then, I have created various advanced projects such as line follower robot using P.I.D
+controller, worked in fabrication of drone, developed prototype of self-balancing robot in eYantra -
+2019, and another in Smart India Hackathon (SIH) where in team of 6, we built smart street light
+system using Arduino, motion sensors, LDR and machine learning, which can reduce the average
+energy consumption by street lights in night and also switch on and off based on the real time
+traffic. I have done various online courses on Coursera such as “Python For Everybody” from Michigan
+University, “Machine Learning" from Standford University and specialization in “Deep Learning and
+Neural Networks" from deeplearning.ai.
+
+T am really Passionate about deep learning and Computer vision and have previously worked on making
+facial and object recognition models that can detect the object type from a real-time webcam image.
+T have done a research Internship at IIT-BHU where I built a Multi-class classification of river
+water quality using Machine Learning techniques and future prediction of river water quality using
+Deep Learning predictive models like LSTM on real-time data from IoT sensors.
+
+In my free time, I try to automate stuff around me. While working on Raspberry Pi, I built my own
+smart switching lights for my room. I, developed a simple robot using servo motors and Arduino to
+play the famous piano tiles game on mobile phone and a simple Robotic arm prototype which can lift
+light objects with ease. I am familiar with programming languages like Python, C++, and C and Data
+structures. I am really inspired by the Boston Dynamics technologies and one day, I would really like
+to build a 4-legged robot which can mimic a cat
+
+T have also written a research paper about classification of 275 bird species using transfer learning
+with efficientnet lite and further deployed it in an android application which can help normal user to
+just click the image and get the species and details about the bird, with an accuracy of approx. 98%
+obtained on test dataset. I have also worked with a start-up called Visudh Ajivam, a private limited
+company in android development and further developed and deployed their only app on Google play
+store which has crossed more than 10,000 downloads in first 2 days only, it helps users to book online
+medicines and appointments of doctors with just one click. I am a very hard working student and have
+a good knowledge of Python, C++ and Data structures, which has helped me in implementing various
+deep learning models in many practical uses.
+
+I want to enhance my current knowledge base and want to do resolve problems and tasks for the
+welfare of people and advancement in technological fields.
